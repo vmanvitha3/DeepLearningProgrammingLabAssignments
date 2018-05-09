@@ -16,6 +16,6 @@ Wiki Page: https://github.com/vmanvitha3/DeepLearningProgrammingLabAssignments/w
 
 Assignment 3:
 
-Source Code & Documentation: 
+Source Code & Documentation: https://github.com/vmanvitha3/DeepLearningProgrammingLabAssignments/tree/master/Lab3
 
-Wiki Page: 
+Wiki Page: https://github.com/vmanvitha3/DeepLearningProgrammingLabAssignments/wiki/LabAssignment3
